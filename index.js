@@ -11,6 +11,7 @@ let perPerson=document.getElementById('perPersonTotal')
 let totPeople=Number(people.innerText)
 
 console.log("hello");
+console.log("hello");
 const calculateBill = () => {
      const bill = Number(billInput.value)
   
